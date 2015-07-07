@@ -1,0 +1,28 @@
+{
+  "name": "osr-csv",
+  "version": "0.0.1",
+  "description": "csv 2 json",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscava/osr-csv.git"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "csv2json"
+  ],
+  "author": "admin@cavacn.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscava/osr-csv/issues"
+  },
+  "readmeFile":"README.md",
+  "homepage": "https://github.com/oscava/osr-csv#readme"
+}
